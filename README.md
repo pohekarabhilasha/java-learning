@@ -24,10 +24,10 @@ You need **Java 8 or later** installed. Check with `java -version`.
 -  [02 — Control Flow](./02-control-flow)  *(if/else, switch, loops)*
 -  [03 — Arrays](./03-arrays)
 -  [04 — Strings](./04-strings)
+-  [05 — OOP Basics](./05-oop)  *(class, object, constructor)*
 -  [06 — Inheritance](./06-inheritance)
 -  [07 — Polymorphism](./07-polymorphism)
 -  [08 — Abstraction](./08-abstraction)
--  [05 — OOP Basics](./05-oop)  *(class, object, constructor)*
 -  [09 — Interfaces](./09-interfaces)
 -  [10 — Exception Handling](./10-exception-handling)
 -  [11 — Collections](./11-collections)
