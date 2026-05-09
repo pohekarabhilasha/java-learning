@@ -60,8 +60,8 @@ public class TypeCastingDemo {
         // ---------- 4. STRING ↔ NUMBER CONVERSION ----------
         // NOT casting — these are method calls (parse / toString).
         // Casting only works between compatible primitive types
-        // OR between related class references. String is a class,
-        // so we use methods to convert.
+        // OR between related class references. 
+        // String is a class, so we use methods to convert.
 
         // String → int
         String numStr = "123";
