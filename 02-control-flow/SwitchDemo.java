@@ -8,7 +8,7 @@ public class SwitchDemo {
         // many possible values. Cleaner than long if-else-if.
         //
         // Allowed types for switch variable:
-        //   byte, short, int, char, String, enum, wrapper classes
+        // byte, short, int, char, String, enum, wrapper classes
         // NOT allowed: long, float, double, boolean
         // =====================================================
 
@@ -17,7 +17,7 @@ public class SwitchDemo {
         // Each 'case' must end with 'break' to stop execution.
         // 'default' runs if no case matches (optional but good practice).
 
-        int day = 3;
+        int day = 6;
         String dayName;
 
         switch (day) {
