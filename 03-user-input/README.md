@@ -31,10 +31,3 @@ After `nextInt()` (or any `nextX()` except `nextLine()`), a stray `\n` is left i
 A following `nextLine()` will read that `\n` as an empty line.
 
 **Fix:** call `sc.nextLine();` once between them to consume the leftover newline.
-
-## Common interview questions
-
-1. **Which package is Scanner in?** → `java.util`
-2. **Difference between `next()` and `nextLine()`?** → `next()` reads one word; `nextLine()` reads the entire line including spaces.
-3. **Why should you close the Scanner?** → To release the underlying input stream.
-4. **Why does `nextLine()` after `nextInt()` read an empty string?** → Because `nextInt()` leaves the newline character in the buffer.
