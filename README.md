@@ -16,7 +16,7 @@ javac HelloWorld.java
 java HelloWorld
 ```
 
-You need **Java 8 or later** installed. Check with `java -version`.
+You need **Java 8 or later** installed. Check with `java -version`
 
 ## Topics
 
