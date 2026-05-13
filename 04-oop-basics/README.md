@@ -12,7 +12,7 @@ The foundation of Object-Oriented Programming in Java — classes, objects, and 
 ### Class
 - A **blueprint** that defines fields (data) and methods (behavior)
 - Doesn't take memory by itself — only when an object is created
-- Only one `public` class per file; its name must match the file name
+- Only one `public` class per file; its name must match the file name 
 
 ### Object
 - An **instance** of a class, created using the `new` keyword
