@@ -15,7 +15,7 @@ The foundation of Object-Oriented Programming in Java — classes, objects, and 
 - Only one `public` class per file; its name must match the file name 
 
 ### Object
-- An **instance** of a class, created using the `new` keyword
+- An **instance** of a class, created using the `new` keyword 
 - Each object has its own copy of fields
 - Stored in **heap memory**; the reference variable lives in stack
 
