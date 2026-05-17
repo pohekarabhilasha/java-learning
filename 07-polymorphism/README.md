@@ -5,6 +5,11 @@ The third pillar of OOP — "many forms": the same action behaving differently d
 ## What's in this folder
 
 - `PolymorphismDemo.java` — `Calculator` class demonstrating method overloading (compile-time), and a `Shape` hierarchy with `Circle` and `Rectangle` demonstrating method overriding (runtime) and dynamic method dispatch
+  
+## Two Types of Polymorphism
+
+- Compile time polymorphism
+- Runtime polymorphism
 
 ## Concepts covered
 
