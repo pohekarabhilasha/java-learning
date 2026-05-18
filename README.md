@@ -1,6 +1,6 @@
 # Learn Core Java!!
 
-A topic-by-topic revision of Core Java, with simple, well-commented examples. Built for learners — clone it, read it, run the examples, and use it as a quick reference before interviews.
+A topic-by-topic revision of Core Java, with simple, well-commented examples. Built for learners — clone it, read it, run the examples, and use it as a quick reference before interviews..
 
 ## How to use this repo
 
