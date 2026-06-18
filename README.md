@@ -20,10 +20,10 @@ You need **Java 8 or later** installed. Check with `java -version`
 
 ## Topics
 
-- [01 — Basics & Fundamentals](./01-basics) — Hello World, variables, data types, type casting, operators
+- [01 — Basics & Fundamentals](./01-basics) - Hello World, variables, data types, type casting, operators
 - [02 — Control Flow](./02-control-flow) — if/else, switch, loops
-- [03 — User Input](./03-user-input) — Scanner class
-- [04 — OOP Basics](./04-oop-basics) — class, object, constructor
+- [03 — User Input](./03-user-input) - Scanner class
+- [04 — OOP Basics](./04-oop-basics) - class, object, constructor
 - [05 — Encapsulation](./05-encapsulation)
 - [06 — Inheritance](./06-inheritance)
 - [07 — Polymorphism](./07-polymorphism)
@@ -35,14 +35,14 @@ You need **Java 8 or later** installed. Check with `java -version`
 - [13 — Collections](./13-collections)
 - [14 — Generics](./14-generics)
 - [15 — Multithreading](./15-multithreading)
-- [16 — Java 8 Features](./16-java8-features) — lambdas, streams, Optional
+- [16 — Java 8 Features](./16-java8-features) - lambdas, streams, Optional
 - [17 — I/O Streams](./17-io-streams)
 
 
 ## Contributing
 
-This is primarily a personal learning repo, but if you spot a bug or have a cleaner example, open an issue or PR — happy to take suggestions.
+This is primarily a personal learning repo, but if you spot a bug or have a cleaner example, open an issue or PR, happy to take suggestions.
 
 ## License
 
-[MIT](./LICENSE) — free to use, learn from, and share.
+[MIT](./LICENSE) - free to use, learn from, and share.
