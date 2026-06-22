@@ -2,7 +2,7 @@
 
 A topic-by-topic revision of Core Java, with simple, well-commented examples. Built for learners: clone it, read it, run the examples, and use it as a quick reference before interviews..
 
-## How to use this repo
+## How to use this repo follow below steps
 
 Each folder is one concept. Inside every folder you'll find:
 - A short `README.md` explaining the concept in simpler way
