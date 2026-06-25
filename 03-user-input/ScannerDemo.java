@@ -46,7 +46,7 @@ public class ScannerDemo {
         // an empty string. Fix it by calling sc.nextLine() once
         // to "eat" the newline before reading the next line.
 
-        sc.nextLine();   // consume the leftover newline
+        //sc.nextLine();   // consume the leftover newline
 
         System.out.print("Enter your full address (with spaces): ");
         String address = sc.nextLine();   // reads the full line including spaces
