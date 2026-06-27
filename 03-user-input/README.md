@@ -1,4 +1,4 @@
-# 03 — Input / Output with Scanner 
+# 03 — Input / Output with Scanner
 
 How to take input from the user (keyboard) using the `Scanner` class.
 
